@@ -1,0 +1,7 @@
+# excluimos los libros de consulta por posibles problemas de autor
+libros-teoria/
+# excluimos los ficheros de autoguardado de libreoffice
+.~lock*
+# excluimos todos los archivos de libreoffice a excepción de la memoria
+#*.odt
+#!memoriaLCB.odt
