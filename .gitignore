@@ -5,3 +5,4 @@ libros-teoria/
 # excluimos todos los archivos de libreoffice a excepción de la memoria
 #*.odt
 #!memoriaLCB.odt
+CVND_*/
