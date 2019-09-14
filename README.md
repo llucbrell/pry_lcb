@@ -53,3 +53,4 @@ jupyter notebook
 A partir de aquí se debería de abrir el navegador y con el entorno de trabajo listo.
 Una vez acabes de jugar con el código, para salir, y no dejar funcionando el servidor, pusla CNTRL+C sobre la ventana de la consola o simplemente cierrala.
 Recuerda que cada vez que quieras experimentar con el código, debes activar el entorno de trabajo y navegar hasta el directorio electro. Ya no necesitarás hacer ninguno de los otros pasos.
+Para más información, consulta el apéndice de la memoria.
