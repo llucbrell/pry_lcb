@@ -23,7 +23,7 @@ conda install git
 ```
 * Clona el repositorio con los archivos del proyecto escribiendo en consola 
 ```
-git clone https//
+git clone https://github.com/llucbrell/pry_lcb 
 ```
 * Navega hasta el directorio donde se encuentran los archivos
 ```
